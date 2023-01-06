@@ -1,64 +1,64 @@
 git init
-
-git config --global user.name "Polarapu Prasad"
-git config --global user.email "devopstraining2015@gmail.com"
-
+nfjgkfvfv
+git confifvg --global user.name "Polarapu Prasad"
+git config cb--global user.email "devopstraining2015@gmail.com"
+vcb
+gitf config --list
+b
+gdfbit config --global --unset user.name
+git fbconfig --global --unset user.email
+dfb
 git config --list
-
-git config --global --unset user.name
-git config --global --unset user.email
-
-git config --list
-
-==============================================
+bgf
+===b===========================================
+lsgfb
+touchgfb file1
+lsgfb
+git sgtatus
+git adbgfd file1  (workspace to staging)
+git statubs
+git commitgfb -m "label" file1 (staging to local)
+git statusgb
+git logn
+git showh cid
+ornhg
+git sngbgfbgfbhow  (latest)
+gfb
+gfb
+---gf----------------------
+touchb file2 file3 file4
+lsgfb
+git sgfbtatus
+git add gffile2 file3 file4
+orb
+gitgfb add .
+orgsbg
+git adsbd *
+orgfn
+git aghndd -A
+git status
+git commngfit -m "label"
+git statusn
+git loggfn
+git showgf
+ngh
+===n=====================================================
+hg
+gidfvt clone https://github.com/polarapu/batch88.git
+lsdfvdfvdfv
+cd batch88fdb
 ls
-touch file1
-ls
-git status
-git add file1  (workspace to staging)
-git status
-git commit -m "label" file1 (staging to local)
-git status
-git log
-git show cid
-or
-git show  (latest)
-
-
--------------------------
-touch file2 file3 file4
-ls
-git status
-git add file2 file3 file4
-or
-git add .
-or
-git add *
-or
-git add -A
-git status
-git commit -m "label"
-git status
-git log
-git show
-
-========================================================
-
-git clone https://github.com/polarapu/batch88.git
-ls
-cd batch88
-ls
-touch prasad
-ls
-git status
-git add prasad
-git status
-git commit -m "label"
-git status
-git log
-git push
-
-Edit some data in any file (manually)
+touch prasadb
+lsb
+gitgf status
+git abgdd prasad
+git stabtus
+git commvbit -m "label"
+git statusvcb
+git logcvb
+git pushb
+g
+Ebgdit some data in any file (manually)
 --------------------------
 ls
 git status
